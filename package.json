@@ -1,6 +1,6 @@
 {
     "name": "com.adrenak.uigradient",
-    "version": "0.0.0",
+    "version": "1.0.0",
     "displayName": "Adrenak.UIGradient",
     "description": "Color gradients for Unity UGUI. By azixMcAze",
     "unity": "2018.4",
